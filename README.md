@@ -8,7 +8,6 @@ Introduction
 Usage
 Class Details
 Example
-Contributions
 
 ## Introduction
 The MiddleCharacter class encapsulates the functionality to identify the middle character(s) of a word. 
@@ -20,10 +19,11 @@ Download or copy the provided MiddleCharacter class code into a Python file, e.g
 Run the Python script using a terminal or command prompt.
 Input a word when prompted.
 The program will output the middle character(s) of the given word.
-Class Details
+
+## Class Details
 The class MiddleCharacter has the following attributes and methods:
 
-## Attributes
+Attributes
 word: A string representing the word for which the middle character(s) need to be determined.
 Methods
 __init__(self, word): Constructor method to initialize the instance with the input word.
