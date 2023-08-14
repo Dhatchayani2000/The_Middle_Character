@@ -1,5 +1,6 @@
 MiddleCharacter Class README
 
+
 The MiddleCharacter class is designed to determine the middle character(s) of a given word. This can be particularly useful in cases where you want to find the central character(s) of a word, accounting for both odd and even word lengths.
 
 Table of Contents
